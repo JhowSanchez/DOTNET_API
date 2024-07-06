@@ -3,6 +3,7 @@
 //Conectado ao banco iremos dar um update-database para upar ao banco
 //criar o Controller onde iremos ter os metodos CRUD/Http e os endpoints
 
+//Conexao Server=localhost\\sqlexpress; Initial Catalog=Tarefa; Integral Security=True
 
 Install-Package Microsoft.EntityFrameworkCore.Design
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
