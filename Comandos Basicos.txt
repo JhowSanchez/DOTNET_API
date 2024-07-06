@@ -5,7 +5,7 @@
 
 //builder.Services.AddDbContext<TarefaContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
-//Conexao Server=localhost\\sqlexpress; Initial Catalog=Tarefa; Integral Security=True
+//Conexao Server=localhost\\sqlexpress; Initial Catalog=Tarefas; Integrated Security= True"
 
 Install-Package Microsoft.EntityFrameworkCore.Design
 Install-Package Microsoft.EntityFrameworkCore.SqlServer
