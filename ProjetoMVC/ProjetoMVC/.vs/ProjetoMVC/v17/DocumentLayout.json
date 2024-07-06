@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\deletar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|c:\\users\\jonat\\source\\repos\\projetomvc\\projetomvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020A6C82-76BF-4046-B626-85B6296ABE32}|ProjetoMVC\\ProjetoMVC.csproj|solutionrelative:projetomvc\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T04:51:06.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deletar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T04:42:38.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T04:39:15.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T04:31:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T04:13:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T03:46:37.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ProjetoMVC\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:03:53.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Models\\Contato.cs",
+              "RelativeToolTip": "ProjetoMVC\\Models\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:00:34.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\jonat\\source\\repos\\ProjetoMVC\\ProjetoMVC\\Program.cs",
+              "RelativeToolTip": "ProjetoMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T02:32:07.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
